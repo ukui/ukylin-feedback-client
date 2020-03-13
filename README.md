@@ -1,1 +1,1 @@
-# feedback_client
+# ubuntukylin-feedback-client
